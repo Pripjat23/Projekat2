@@ -1,0 +1,14 @@
+# Izvršni fajl
+main
+
+# Object fajlovi nastali kompajliranjem
+*.o
+
+# Privremene datoteke (npr. iz urednika)
+*~
+# Direktorijumi koje kompajler može kreirati
+/build/
+
+# Ako se negde u kodu kreiraju izlazne slike/datoteke za debagovanje
+output.jpg
+processed_image.jpg
